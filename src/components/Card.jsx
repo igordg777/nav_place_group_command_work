@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Card, CardHeader, CardBody, CardFooter, Text, Heading, Button, SimpleGrid, Image, Stack, Divider, ButtonGroup, useDisclosure, Modal, ModalFooter, ModalBody, ModalCloseButton, ModalOverlay, ModalContent, ModalHeader } from '@chakra-ui/react'
+import React, { useState } from 'react';
+import { Card, CardBody, CardFooter, Text, Heading, Button, SimpleGrid, Image, Stack, Divider, ButtonGroup, useDisclosure, Modal, ModalFooter, ModalBody, ModalCloseButton, ModalOverlay, ModalContent, ModalHeader } from '@chakra-ui/react'
 import './Card.css'
 import posmanImg from './images/Postman.png'
 import gitImg from './images/git.png'

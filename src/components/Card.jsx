@@ -79,7 +79,7 @@ function CardComponent() {
                     </CardFooter>
                 </Card>
             </div> */}
-            <h3>Командная работа в GIT по созданию fullstack приложения!</h3>
+            <h3>Командная работа в GIT по созданию fullstack приложения</h3>
             <SimpleGrid spacing={4} templateColumns='repeat(auto-fill, minmax(200px, 1fr))'>
 
                 {

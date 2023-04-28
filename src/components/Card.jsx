@@ -62,6 +62,14 @@ function CardComponent() {
             link_presentation: null,
             img: fullstackPartFirst
         },
+        {
+            theme: 'command_work2',
+            date: '22.04.2023',
+            link_video: 'https://youtu.be/78Iw21pbCms',
+            description: 'На учебном занятии продолжили работу в общем репозитории, разобрали особенности работы фронтенда и бэкенда',
+            link_presentation: null,
+            img: fullstackPartFirst
+        },
     ]
 
     return (

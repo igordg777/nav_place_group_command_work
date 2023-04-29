@@ -70,6 +70,14 @@ function CardComponent() {
             link_presentation: null,
             img: fullstackPartFirst
         },
+         {
+            theme: 'command_work3',
+            date: '22.04.2023',
+            link_video: 'https://youtu.be/KbvPBZ5JE24',
+            description: 'На учебном занятии проверили выполнение заданий с предыдущих уроков, изучили работу с командой git commit --amend, скорректировали архитектуру базы данных, проверили работу api по городам, скорректировали работу команды фронтенда по дизайну и распределению задач',
+            link_presentation: null,
+            img: fullstackPartFirst
+        },
     ]
 
     return (

@@ -6,6 +6,7 @@ import gitImg from './images/git.png'
 import dockerImg from './images/docker.png'
 import gitCommandsImg from './images/git_commands.jpg'
 import fullstackPartFirst from './images/fullstack_part_first.jpg'
+import exceltopostgres from './images/exceltopostgres.jpg'
 
 
 
@@ -92,7 +93,7 @@ function CardComponent() {
             link_video: 'https://youtu.be/oUoSffLN1UkY',
             description: '',
             link_presentation: null,
-            img: fullstackPartFirst
+            img: exceltopostgres
         },
     ]
 

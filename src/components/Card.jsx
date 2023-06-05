@@ -86,6 +86,14 @@ function CardComponent() {
             link_presentation: null,
             img: fullstackPartFirst
         },
+        {
+            theme: 'Excel to Postgres',
+            date: '03.06.2023',
+            link_video: 'https://youtu.be/oUoSffLN1UkY',
+            description: '',
+            link_presentation: null,
+            img: fullstackPartFirst
+        },
     ]
 
     return (

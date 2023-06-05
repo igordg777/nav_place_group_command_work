@@ -91,7 +91,7 @@ function CardComponent() {
             theme: 'Excel to Postgres',
             date: '03.06.2023',
             link_video: 'https://youtu.be/oUoSffLN1UkY',
-            description: '',
+            description: 'На учебном занятии изучили встроенный в javascript объект navigator,  метод windows.onload. Полученные с помощью объект navigator отправили в сервис Яндекс геокодер и получили адрес местоположения пользователя.  Кроме того, познакомились с api яндекс алисы. Вторую часть занятия посвятили сохранению файлов Excel в базу данных Postgres',
             link_presentation: null,
             img: exceltopostgres
         },

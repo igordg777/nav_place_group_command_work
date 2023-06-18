@@ -101,7 +101,7 @@ function CardComponent() {
             link_video: 'https://youtu.be/LQ1eQacL4KE',
             description: `На уроке проработали подготовку данных для сохранения в базу, создали из объекта массив с объектами, затем преобразовали эти данные в файл Excel с помощью сервиса https://wtools.io/convert-js-object-to-excel. Подготовленный файл Excel сохранили в базу данных PostgreSQL с помощью команды  copy braids from 'путь до файла' delimiter ';' csv header  encoding 'windows-1251'; После успешной подготовки и сохранения данных в базу перешли к созданию навыков для Алисы. При этом изучили работу Ngrok, Serveo - сервисов для тунеллирования localhost  (просмотра localhost по url в интернете). Сервер для Алисы создали на Express.`,
             link_presentation: null,
-            img: Alice
+            img: 'Alice'
         },
     ]
 
